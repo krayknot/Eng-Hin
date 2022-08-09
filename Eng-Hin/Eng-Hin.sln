@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eng-Hin", "Eng-Hin\Eng-Hin.csproj", "{42787F05-B679-4C65-90E8-0C10924F4F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control", "..\Control\Control\Control.csproj", "{6F555A49-838E-4DB2-AC81-ABFDE747FA6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42787F05-B679-4C65-90E8-0C10924F4F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42787F05-B679-4C65-90E8-0C10924F4F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42787F05-B679-4C65-90E8-0C10924F4F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42787F05-B679-4C65-90E8-0C10924F4F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F555A49-838E-4DB2-AC81-ABFDE747FA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F555A49-838E-4DB2-AC81-ABFDE747FA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F555A49-838E-4DB2-AC81-ABFDE747FA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F555A49-838E-4DB2-AC81-ABFDE747FA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
